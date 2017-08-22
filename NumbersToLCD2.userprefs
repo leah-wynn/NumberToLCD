@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{542ECF33-7222-4014-BA56-720E4327033B}|Default">
+  <MonoDevelop.Ide.ItemProperties.NumbersToLCD2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumbersToLCD2/Production/NumbersToLCD.cs">
+    <Files>
+      <File FileName="NumbersToLCD2/Production/NumbersToLCD.cs" Line="68" Column="1" />
+      <File FileName="NumbersToLCD2/Tests/NumbersToLCDTest.cs" Line="43" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

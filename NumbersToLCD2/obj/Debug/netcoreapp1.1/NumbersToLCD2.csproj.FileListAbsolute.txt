@@ -1,0 +1,13 @@
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/bin/Debug/netcoreapp1.1/NumbersToLCD2.deps.json
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/bin/Debug/netcoreapp1.1/NumbersToLCD2.runtimeconfig.json
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/bin/Debug/netcoreapp1.1/NumbersToLCD2.runtimeconfig.dev.json
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/bin/Debug/netcoreapp1.1/NumbersToLCD2.dll
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/bin/Debug/netcoreapp1.1/NumbersToLCD2.pdb
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/obj/Debug/netcoreapp1.1/NumbersToLCD2.csprojResolveAssemblyReference.cache
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/obj/Debug/netcoreapp1.1/NumbersToLCD2.csproj.CoreCompileInputs.cache
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/obj/Debug/netcoreapp1.1/NumbersToLCD2.AssemblyInfo.cs
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/obj/Debug/netcoreapp1.1/NumbersToLCD2.dll
+/Users/leah/Projects/NumbersToLCD2/NumbersToLCD2/obj/Debug/netcoreapp1.1/NumbersToLCD2.pdb

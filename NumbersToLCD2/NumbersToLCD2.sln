@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 15.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersToLCD2", "NumbersToLCD2.csproj", "{6B6E7858-3691-4AAD-8471-A78AA7ED3D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B6E7858-3691-4AAD-8471-A78AA7ED3D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6E7858-3691-4AAD-8471-A78AA7ED3D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6E7858-3691-4AAD-8471-A78AA7ED3D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6E7858-3691-4AAD-8471-A78AA7ED3D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
