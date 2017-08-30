@@ -2,10 +2,22 @@
   <MonoDevelop.Ide.ItemProperties.NumbersToLCD2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Tests/NumbersToLCDTest.cs">
     <Files>
-      <File FileName="Production/NumbersToLCD.cs" Line="46" Column="13" />
-      <File FileName="Tests/NumbersToLCDTest.cs" Line="12" Column="61" />
+      <File FileName="Tests/NumbersToLCDTest.cs" Line="24" Column="10" />
+      <File FileName="Production/NumbersToLCD.cs" Line="34" Column="2" />
     </Files>
     <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NumbersToLCD2" expanded="True">
+            <Node name="NumbersToLCD2" expanded="True">
+              <Node name="Production" expanded="True" />
+              <Node name="Tests" expanded="True">
+                <Node name="NumbersToLCDTest.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
           <Node name="NumbersToLCD2" expanded="True" selected="True" />

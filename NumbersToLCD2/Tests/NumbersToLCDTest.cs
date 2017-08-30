@@ -1,6 +1,4 @@
-using System;
 using Xunit;
-using NumbersToLCD2.Production;
 
 namespace NumbersToLCD2
 {
@@ -9,36 +7,28 @@ namespace NumbersToLCD2
         [Fact]
         public void NumberOneShouldEqualLCDOne()
         {
-            NumbersToLCD translateNumber = new NumbersToLCD("1");
+            NumbersToLCD number = new NumbersToLCD();
             Assert.Equal("   \n" +
                          "  |\n" +
-                         "  |", translateNumber.NumberToString());
+                         "  |", number.ToLCD(1));
 
         }
 
         [Fact]
         public void NumberTwoShouldEqualLCDTwo()
         {
-            NumbersToLCD translateNumber = new NumbersToLCD("2");
+            NumbersToLCD number = new NumbersToLCD();
             Assert.Equal(" _ \n" +
                          " _|\n" +
-                         "|_ ", translateNumber.NumberToString());
+                         "|_ ", number.ToLCD(2));
         }
-		[Fact]
-		public void NumberThreeShouldEqualLCDThree()
-		{
-			NumbersToLCD translateNumber = new NumbersToLCD("3");
-			Assert.Equal(" _ \n" +
-						 " _|\n" +
-						 " _|", translateNumber.NumberToString());
-		}
         [Fact]
         public void DoubleDigitIntShouldReturnDoubleDigitLCD()
         {
-            NumbersToLCD translateNumber = new NumbersToLCD("12");
+            NumbersToLCD number = new NumbersToLCD();
             Assert.Equal("    _ \n" +
                          "  | _|\n" +
-                         "  ||_ ", translateNumber.NumberToString());
+                         "  ||_ ", number.ToLCD(12));
         }
     }
 }
